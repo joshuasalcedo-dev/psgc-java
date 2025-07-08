@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.joshuasalcedo</groupId>
+    <artifactId>psgc-java</artifactId>
+    <version>1-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <org.apache.poi-version>5.4.1</org.apache.poi-version>
+    </properties>
+
+    <name>PSGC java</name>
+    <description>A java implementation for Philippine Standard Geographic Code</description>
+
+    <modules>
+        <module>psgc-java-parser</module>
+        <module>psgc-java-model</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+            <dependency>
+                <groupId>org.apache.poi</groupId>
+                <artifactId>poi</artifactId>
+                <version>${org.apache.poi-version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+</project>
