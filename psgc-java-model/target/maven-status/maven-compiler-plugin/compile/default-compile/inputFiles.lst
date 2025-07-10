@@ -1,0 +1,16 @@
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\IncomeRange.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\UrbanRuralClassification.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\exception\UnknownGeographicLevelException.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\IncomeClassificationConstants.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\LGUType.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\IncomeClassification.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\exception\UnknownIncomeClassificationException.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\LocationStatus.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\PSGCCode.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\constants\PsgcDownloadUrl.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\PSGCEntry.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\api\GeographicLevel.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\exception\PSGCException.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\Main.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\exception\InvalidPSGCCodeException.java
+C:\Users\JoshuaSalcedo\master-repository\psgc-java\psgc-java-model\src\main\java\io\joshuasalcedo\psgc\model\exception\PSGCParsingException.java

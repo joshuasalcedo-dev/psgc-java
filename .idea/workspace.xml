@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a3ee726-650a-490b-b99d-012697ece19f" name="add the psgc-java-parser" comment="" />
+    <list id="722c7277-c193-4503-96f6-78e1a20f63aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/GeographicLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/IncomeClassification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/IncomeClassificationConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/IncomeRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/LGUType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/LocationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/PSGCCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/PSGCEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/api/UrbanRuralClassification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/constants/PsgcDownloadUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/exception/InvalidPSGCCodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/exception/PSGCException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/exception/PSGCParsingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/exception/UnknownGeographicLevelException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psgc-java-model/src/main/java/io/joshuasalcedo/psgc/model/exception/UnknownIncomeClassificationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psgc-java-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/psgc-java-model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psgc-java-parser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/psgc-java-parser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psgc-java-parser/psgc-java-parser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/psgc-java-parser/psgc-java-parser.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psgc-java-parser/src/main/java/io/joshuasalcedo/pcgc/parser/core/PSGCStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/psgc-java-parser/src/main/java/io/joshuasalcedo/pcgc/parser/core/PSGCStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psgc-java-parser/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/psgc-java-parser/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joshuasalcedo-dev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:joshuasalcedo-dev/psgc-java&quot;,
+    &quot;accountId&quot;: &quot;3325714a-b221-4e11-a22f-23485f2a1f88&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zaoFxpNhrOdYefPXe8YgD1BIKa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.PsgcConstants.executor": "Run",
+    "Application.PsgcUrlValidator.executor": "Run",
+    "Maven.psgc-java [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.joshuasalcedo.psgc.model.Main" />
+      <module name="psgc-java-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.joshuasalcedo.psgc.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PsgcDownloadUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.joshuasalcedo.psgc.model.constants.PsgcDownloadUrl" />
+      <module name="psgc-java-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.joshuasalcedo.psgc.model.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PsgcUrlValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.joshuasalcedo.psgc.model.util.PsgcUrlValidator" />
+      <module name="psgc-java-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.joshuasalcedo.psgc.model.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PsgcUrlValidator" />
+        <item itemvalue="Application.PsgcDownloadUrl" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PsgcUrlValidator" />
+        <item itemvalue="Application.PsgcDownloadUrl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="722c7277-c193-4503-96f6-78e1a20f63aa" name="Changes" comment="" />
+      <created>1751978444430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751997210272</updated>
+      <workItem from="1751978445709" duration="2862000" />
+      <workItem from="1751991977085" duration="5186000" />
+      <workItem from="1751997203833" duration="7000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="add the psgc-java-parser">
+      <changelist id="6a3ee726-650a-490b-b99d-012697ece19f" name="add the psgc-java-parser" comment="" />
+      <created>1751997159853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751997210272</updated>
+      <workItem from="1751997187819" duration="16000" />
+      <workItem from="1751997210828" duration="19000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <option name="createBranch" value="false" />
+    <servers>
+      <GitHub url="https://github.com" />
+    </servers>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
